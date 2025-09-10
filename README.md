@@ -4,8 +4,8 @@ I'm currently learning and working with <strong>Python, C++, SQL, Power BI, Exce
 I love exploring data, building intelligent systems, and growing my technical skills 🚀.</p>
 
 <p>
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge"></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a>
+<a href="https://www.linkedin.com/in/abood-hesham"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge"></a>
+<a href="mailto:abdo3hesham@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a>
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
@@ -14,7 +14,7 @@ I love exploring data, building intelligent systems, and growing my technical sk
 <ul>
 <li>🔭 Currently focusing on <strong>Data Analysis & Machine Learning</strong>.</li>
 <li>🧐 Interested in <strong>AI, Data Science, and Business Intelligence</strong>.</li>
-<li>👨‍💻 Check out my projects on <a href="https://github.com/your-github">GitHub</a>.</li>
+<li>👨‍💻 Check out my projects on <a href="https://github.com/Aboood775">GitHub</a>.</li>
 <li>📊 Skilled in <strong>Power BI & Excel</strong> for visualization and reporting.</li>
 <li>💬 Ask me about <strong>Python, SQL, Data Analysis</strong>.</li>
 </ul>
@@ -31,6 +31,6 @@ I love exploring data, building intelligent systems, and growing my technical sk
 
 <h2>📈 GitHub Stats</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aboood775&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
