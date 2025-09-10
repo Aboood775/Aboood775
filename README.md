@@ -8,7 +8,7 @@ I love exploring data, building intelligent systems, and growing my technical sk
 <a href="mailto:abdo3hesham@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
