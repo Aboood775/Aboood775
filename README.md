@@ -1,36 +1,59 @@
-<h2>Hey 👋, I'm Abdelrahman Hesham</h2>
-<p>🎓 I'm an AI Engineering student and a passionate <strong>Data Analyst</strong>.  
-I'm currently learning and working with <strong>Python, C++, SQL, Power BI, Excel, Data Structures, OOP, Data Science, and Machine Learning</strong>.  
-I love exploring data, building intelligent systems, and growing my technical skills 🚀.</p>
+# Hey 👋, I'm Abdelrahman Hesham
 
+I'm an Artificial Intelligence Engineering student, Mobile Application Developer, and Data Analyst. I enjoy exploring data, building intelligent systems, and developing high-performance mobile applications from login to checkout.
+
+---
+
+## 🚀 About Me
+* 🎓 Education: Artificial Intelligence Engineering Student
+* 📱 Mobile Development: Passionate about building premium, dark-themed, and functional apps using Flutter (Dart) and Native Android (Kotlin/Java).
+* 📊 Data Analysis & AI: Experienced in data processing, visualization, web scraping, and building RAG pipelines or Large Language Model (LLM) implementations.
+* ⚡ Fact: I love automating tech workflows and structural programming.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 📱 Mobile Development
 <p>
-<a href="https://www.linkedin.com/in/abood-hesham"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge"></a>
-<a href="mailto:abdo3hesham@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android" />
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+### 🧠 AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Data_Science-orange?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+</p>
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 Currently focusing on <strong>Data Analysis & Machine Learning</strong>.</li>
-<li>🧐 Interested in <strong>AI, Data Science, and Business Intelligence</strong>.</li>
-<li>👨‍💻 Check out my projects on <a href="https://github.com/Aboood775">GitHub</a>.</li>
-<li>📊 Skilled in <strong>Power BI & Excel</strong> for visualization and reporting.</li>
-<li>💬 Ask me about <strong>Python, SQL, Data Analysis</strong>.</li>
-</ul>
+### ⚙️ Core Engineering & Backend
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<h2>🚀 Tools & Technologies</h2>
+---
+
+## 📊 GitHub Stats
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aboood775&show_icons=true&theme=tokyonight&count_private=true" alt="Abdelrahman's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
-<h2>📈 GitHub Stats</h2>
+---
+
+## 🤝 Connect with Me
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Aboood775&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/abood-hesham?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdo3hesham@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
