@@ -1,22 +1,23 @@
-<table>
+.<table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <h1>Hey 👋, I'm Abdelrahman Hesham</h1>
       <p>I'm an <b>Artificial Intelligence Engineering student</b>, <b>Mobile Application Developer</b>, and <b>Data Analyst</b>. I enjoy exploring data, building intelligent systems, and developing high-performance mobile applications from login to checkout.</p>
-      
-    ### 🚀 About Me
-      * 🎓 <b>Education:</b> Artificial Intelligence Engineering Student
-      * 📱 <b>Mobile Development:</b> Passionate about building premium, dark-themed, and functional apps using <b>Flutter (Dart)</b> and <b>Native Android (Kotlin/Java)</b>.
-      * 📊 <b>Data Analysis & AI:</b> Experienced in data processing, visualization, web scraping, and building RAG pipelines or Large Language Model (LLM) implementations.
-      * ⚡ <b>Fact:</b> I love automating tech workflows and structural programming.
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li><b>🎓 Education:</b> Artificial Intelligence Engineering Student</li>
+        <li><b>📱 Mobile Development:</b> Passionate about building premium, dark-themed, and functional apps using <b>Flutter (Dart)</b> and <b>Native Android (Kotlin/Java)</b>.</li>
+        <li><b>📊 Data Analysis & AI:</b> Experienced in data processing, visualization, web scraping, and building RAG pipelines or Large Language Model (LLM) implementations.</li>
+        <li><b>⚡ Fact:</b> I love automating tech workflows and structural programming.</li>
+      </ul>
     </td>
-    <td width="40%" valign="center" align="center">
+    <td width="40%" valign="top" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFndXN6YndpZ3V6cHBrYmpxZ2R3MTI0ZTh6ZGs3Mnd0Z3Fidm9iNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sK8r6/giphy.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
----
+<hr>
 
 ## 🛠️ Tools & Technologies
 
@@ -42,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
 </p>
 
----
+<hr>
 
 ## 📊 GitHub Stats
 <p align="left">
@@ -50,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
----
+<hr>
 
 ## 🤝 Connect with Me
 <p>
