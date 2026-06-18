@@ -1,14 +1,20 @@
-# Hey 👋, I'm Abdelrahman Hesham
-
-I'm an Artificial Intelligence Engineering student, Mobile Application Developer, and Data Analyst. I enjoy exploring data, building intelligent systems, and developing high-performance mobile applications from login to checkout.
-
----
-
-## 🚀 About Me
-* 🎓 Education: Artificial Intelligence Engineering Student
-* 📱 Mobile Development: Passionate about building premium, dark-themed, and functional apps using Flutter (Dart) and Native Android (Kotlin/Java).
-* 📊 Data Analysis & AI: Experienced in data processing, visualization, web scraping, and building RAG pipelines or Large Language Model (LLM) implementations.
-* ⚡ Fact: I love automating tech workflows and structural programming.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h1>Hey 👋, I'm Abdelrahman Hesham</h1>
+      <p>I'm an <b>Artificial Intelligence Engineering student</b>, <b>Mobile Application Developer</b>, and <b>Data Analyst</b>. I enjoy exploring data, building intelligent systems, and developing high-performance mobile applications from login to checkout.</p>
+      
+    ### 🚀 About Me
+      * 🎓 <b>Education:</b> Artificial Intelligence Engineering Student
+      * 📱 <b>Mobile Development:</b> Passionate about building premium, dark-themed, and functional apps using <b>Flutter (Dart)</b> and <b>Native Android (Kotlin/Java)</b>.
+      * 📊 <b>Data Analysis & AI:</b> Experienced in data processing, visualization, web scraping, and building RAG pipelines or Large Language Model (LLM) implementations.
+      * ⚡ <b>Fact:</b> I love automating tech workflows and structural programming.
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFndXN6YndpZ3V6cHBrYmpxZ2R3MTI0ZTh6ZGs3Mnd0Z3Fidm9iNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sK8r6/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -16,26 +22,24 @@ I'm an Artificial Intelligence Engineering student, Mobile Application Developer
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" />
 </p>
 
 ### 🧠 AI & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Data_Science-orange?style=for-the-badge" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40" />
 </p>
 
-### ⚙️ Core Engineering & Backend
+### ⚙️ Core Engineering & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
 </p>
 
 ---
@@ -52,7 +56,7 @@ I'm an Artificial Intelligence Engineering student, Mobile Application Developer
 <p>
   <a href="https://www.linkedin.com/in/abood-hesham?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> &nbsp;
   <a href="mailto:abdo3hesham@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
