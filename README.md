@@ -1,3 +1,11 @@
+<p>
+  <a href="https://www.linkedin.com/in/abood-hesham?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="mailto:abdo3hesham@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -12,7 +20,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFndXN6YndpZ3V6cHBrYmpxZ2R3MTI0ZTh6ZGs3Mnd0Z3Fidm9iNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sK8r6/giphy.gif" width="100%" alt="Coding GIF" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFndXN6YndpZ3V6cHBrYmpxZ2R3MTI0ZTh6ZGs3Mnd0Z3Fidm9iNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sK8r6/giphy.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -30,6 +38,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
 </p>
 
+### 📊 Data Analysis Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="30" height="30" /> &nbsp;
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/grommet-icons/4.7.0/img/excel.svg" alt="excel" width="30" height="30" />
+</p>
+
 ### 🧠 AI & Data Science
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" /> &nbsp;
@@ -45,21 +59,3 @@
 </p>
 
 <hr>
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aboood775&show_icons=true&theme=tokyonight&count_private=true" alt="Abdelrahman's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
-<hr>
-
-## 🤝 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/abood-hesham?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="mailto:abdo3hesham@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
