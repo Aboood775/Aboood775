@@ -94,10 +94,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aboood775&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboood775/Aboood775/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboood775/Aboood775/output/github-snake.svg" />
