@@ -22,7 +22,8 @@
 <td width="60%" valign="top">
 
 - 🎓 **Computer & AI** student — Zagazig National University
-- 📱 **Android** track at **ITI** — native apps with Kotlin
+- 🤖 **Generative AI** track at **ITI**
+- 📱 Native **Android** (Kotlin) & **Flutter** developer
 - 🧠 Building **GenAI** apps — LLMs, RAG, LangChain, Gemini
 - 🏅 **NVIDIA DLI** — Generative AI certified
 - 📍 Zagazig, Egypt
@@ -38,10 +39,10 @@
 
 | Track | Focus |
 |---|---|
-| 🏛️ **ITI** | Android Development |
+| 🏛️ **ITI** | Generative AI |
 | 🇪🇬 **DEPI** | Android Mobile Developer |
 | 🟢 **GDG BNU** | Flutter |
-| 🔧 **NTI** | Mobile Development |
+| 📊 **NTI** | Data Analysis |
 
 </td>
 </tr>
