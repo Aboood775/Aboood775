@@ -1,65 +1,110 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Abdelrahman+Hesham;AI+Engineer+%26+Mobile+Developer;Android+(Kotlin)+%7C+Flutter+%7C+GenAI" alt="Typing SVG" />
-
-<p>
-  <a href="https://www.linkedin.com/in/abood-hesham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abdo3hesham@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Aboood775&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Abdelrahman%20Hesham&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+native+Android+apps+with+Kotlin+%F0%9F%93%B1;Cross-platform+apps+with+Flutter+%F0%9F%92%99;LLM+apps%2C+RAG+pipelines+%26+GenAI+%F0%9F%A7%A0;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abood-hesham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdo3hesham@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Aboood775&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer & Artificial Intelligence student — Zagazig National University
-- 📱 Android track at **ITI** — building native apps with **Kotlin**, plus cross-platform apps with **Flutter**
-- 🧠 Working with **Generative AI**: LLM apps, RAG pipelines, LangChain, Gemini
-- 🏅 NVIDIA DLI — Generative AI certified
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 **Computer & AI** student — Zagazig National University
+- 📱 **Android** track at **ITI** — native apps with Kotlin
+- 🧠 Building **GenAI** apps — LLMs, RAG, LangChain, Gemini
+- 🏅 **NVIDIA DLI** — Generative AI certified
 - 📍 Zagazig, Egypt
+
+**🔭 Currently building**
+- **ZenMaestro** — AI productivity coach for Android (Kotlin + LangChain + Gemini)
+- **Football analytics** — ball possession analysis with YOLO, tracking & K-Means
+
+</td>
+<td width="40%" valign="top">
+
+**💼 Tracks & Experience**
+
+| Track | Focus |
+|---|---|
+| 🏛️ **ITI** | Android Development |
+| 🇪🇬 **DEPI** | Android Mobile Developer |
+| 🟢 **GDG BNU** | Flutter |
+| 🔧 **NTI** | Mobile Development |
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,flutter,dart,firebase&theme=dark" alt="Mobile stack" />
-</p>
-
-**AI & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,mysql&theme=dark" alt="AI stack" />
-</p>
-
-**Tools**
-
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,flutter,dart,firebase&theme=dark" alt="Mobile" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,mysql&theme=dark" alt="AI & Data" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,cpp,linux,vscode,figma&theme=dark" alt="Tools" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🩺 [**DocMate**](https://github.com/Aboood775/DocMate-App) | Doctor appointment & consultation app — auth, doctor search, booking slots, notifications | Kotlin · Firebase · Hilt |
-| 🏨 [**Smart Hotel**](https://github.com/Aboood775/SmartHotel) | Hotel booking app — room search, booking flow, digital check-in, favorites | Kotlin · Firebase |
-| 🛍️ [**Shop App**](https://github.com/Aboood775/Shop-App-main) | E-commerce app — categories, cart, favorites, full checkout flow | Flutter · Dart |
-| 📄 [**Smart Contract Assistant**](https://github.com/Aboood775/smart_contract_assistant) | RAG assistant for contract documents (PDF/DOCX) — Q&A with guardrails and evaluation | Python · LangChain · FAISS · Gradio |
+<p align="center">
+  <a href="https://github.com/Aboood775/DocMate-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aboood775&repo=DocMate-App&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="DocMate" /></a>
+  <a href="https://github.com/Aboood775/SmartHotel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aboood775&repo=SmartHotel&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="SmartHotel" /></a>
+  <a href="https://github.com/Aboood775/Shop-App-main"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aboood775&repo=Shop-App-main&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Shop App" /></a>
+  <a href="https://github.com/Aboood775/smart_contract_assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aboood775&repo=smart_contract_assistant&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Smart Contract Assistant" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aboood775&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Aboood775&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aboood775&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboood775&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="170" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aboood775&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aboood775&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboood775/Aboood775/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboood775/Aboood775/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Aboood775/Aboood775/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
